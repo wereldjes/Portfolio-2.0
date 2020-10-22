@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #073B3A;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    min-width: 390px;
+    border-bottom-style: solid;
+    border-color: #6BBF59;
+    border-width: 2px;
+}
+
+.nav-float-right {
+    float: right!important;
+}
+
+.navbar a {
+    color: white;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 15px;
+    font-size: 20px;
+}
+
+.navbar a:hover{
+    background-color: #0B6E4F;
+}
+
+.footer {
+    background-color: #073B3A;
+    height: 40px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
